@@ -1,1 +1,3 @@
 selenium
+pyside6
+validator
